@@ -1,4 +1,4 @@
-⚠️ Dieses Repository wird nicht weiter gepflegt, da Adobe das Projekt PhoneGap zum 01.10.2020 abgekündigt hat, siehe https://blog.phonegap.com/update-for-customers-using-phonegap-and-phonegap-build-cc701c77502c.
+⚠️ Dieses Repository wird nicht weiter gepflegt, da Adobe das Projekt PhoneGap zum 01.10.2020 abgekündigt hat, siehe https://blog.phonegap.com/update-for-customers-using-phonegap-and-phonegap-build-cc701c77502c. Alternativ können native Apps mit Apache Cordova direkt gebaut werden, siehe https://github.com/conterra/mapapps-cordova-build-frame. ⚠️
 
 # Anleitung
 1. map.apps App über 'Export für native App' exportieren
