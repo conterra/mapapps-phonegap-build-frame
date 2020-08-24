@@ -1,3 +1,5 @@
+⚠️ Dieses Repository wird nicht weiter gepflegt, da Adobe das Projekt PhoneGap zum 01.10.2020 abgekündigt hat, siehe https://blog.phonegap.com/update-for-customers-using-phonegap-and-phonegap-build-cc701c77502c.
+
 # Anleitung
 1. map.apps App über 'Export für native App' exportieren
 2. Inhalte des heruntergeladenen .zip in den `www` Ordner entpacken
